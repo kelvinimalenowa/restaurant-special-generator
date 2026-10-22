@@ -6,6 +6,8 @@ A simple meal generator built using HTML, CSS, and JavaScript.
 
 This application allows users to select a cuisine and diet type to generate a meal idea that matches their choices. The project uses an API to retrieve meal information and display a restaurant special based on the user's input.
 
+[Generate a Special](https://kelvinimalenowa.github.io/restaurant-special-generator/)
+
 ## Screenshot
 
 ![Project Screenshot](assets/mockup.png)
